@@ -1,0 +1,12 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE SHADER REFERENCES
+// INSURE THAT THE BASE SHADER MATCHES THAT OF ANY GLOBAL PARAMS YOU USE
+// ----------------------------------------------------------------------------------------------------------------
+
+
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__0__SMOOTH-ADV__GDV-NTSC__DREZ-480p.slangp"
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__1__ADV__GDV__DREZ-480p.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__1__ADV__GDV-NTSC__DREZ-480p.slangp"

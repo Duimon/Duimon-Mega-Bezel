@@ -1,0 +1,31 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT PARAMETERS
+// Parameters specific to the screen including Guest, Grade, Gel, Diffuse etc. While diffuse parameters are here
+// the iamge paths are in the layers params with the other images.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_DOWNSAMPLE_BLUR_SCANLINE_DIR = "30.000000"
+HSM_DOWNSAMPLE_BLUR_OPPOSITE_DIR = "30.000000"
+HSM_MONOCHROME_GAMMA = "2.000000"
+HSM_MONOCHROME_MODE = "1.000000"
+HSM_MONOCHROME_SATURATION = "100.000000"
+HSM_CRT_BLEND_MODE = "2.000000"
+HSM_TUBE_DIFFUSE_IMAGE_AMOUNT = "75.000000"
+HSM_TUBE_DIFFUSE_MODE = "1.000000"
+HSM_TUBE_DIFFUSE_IMAGE_BRIGHTNESS = "99.000000"
+HSM_TUBE_DIFFUSE_IMAGE_AMBIENT_LIGHTING = "60.000000"
+HSM_TUBE_SHADOW_IMAGE_ON = "1.000000"
+HSM_TUBE_SHADOW_IMAGE_OPACITY = "30.000000"
+HSM_TUBE_SHADOW_IMAGE_POS_Y = "12.000011"
+HSM_TUBE_SHADOW_CURVATURE_SCALE = "0.000000"
+HSM_CRT_BLEND_AMOUNT = "100.000000"
+HSM_REFLECT_GLOBAL_AMOUNT = "21.000000"
+HSM_BZL_INNER_EDGE_SHADOW = "0.000000"
+LCD_GAMMA = "2.000000"
+
+
+// Reflection properties are normally placed in the bezel params.
+// The global amount here is to help cosolidate this refernce.

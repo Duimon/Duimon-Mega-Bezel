@@ -1,0 +1,57 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+HSM_BG_MIRROR_WRAP = "0.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_OPACITY = "0.000000"
+HSM_LED_LAYER_ORDER = "4.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SOURCE_MATTE_TYPE = "1.000000"
+HSM_DEVICE_FOLLOW_LAYER = "3.000000"
+HSM_DEVICE_POS_Y = "-0.250000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
+HSM_DECAL_MASK_MODE = "2.000000"
+HSM_DECAL_FOLLOW_LAYER = "2.000000"
+HSM_DECAL_SCALE = "127.099586"
+HSM_DECAL_POS_Y = "-7.250007"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/wood.jpg"
+//BackgroundVertImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/wood.jpg"
+LEDImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm_LED.png"
+DeviceImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm.png"
+//DeviceVertImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm.png"
+DecalImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm_Decal.png"
+TubeColoredGelImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm_Gel.png"

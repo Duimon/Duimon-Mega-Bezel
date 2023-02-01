@@ -1,0 +1,49 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+HSM_BG_MIRROR_WRAP = "0.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_FOLLOW_LAYER = "1.000000"
+HSM_DEVICE_SCALE = "122.40"
+HSM_DEVICE_POS_Y = "-12.90"
+HSM_DEVICE_LAYER_ORDER = "6.000000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "7.000000"
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_LAYER_ORDER = "4.000000"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/_Backgrounds/Canvas_Background.jpg"
+DeviceImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/SEGA_Pico/SEGA_Pico_Monitor.png"
+DecalImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/SEGA_Pico/SEGA_Pico.png"

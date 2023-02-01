@@ -1,0 +1,64 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+HSM_BG_MIRROR_WRAP = "0.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_FILL_MODE = "1.000000"
+HSM_LED_OPACITY = "0.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SCALE_FULL_WITH_ZOOM = "0.000000"
+HSM_DEVICE_SCALE = "137.400146"
+HSM_DEVICE_POS_Y = "-8.500014"
+HSM_DEVICE_LAYER_ORDER = "5.000000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "6.000000"
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_FOLLOW_LAYER = "3.000000"
+HSM_DECAL_FOLLOW_MODE = "1.000000"
+HSM_DECAL_POS_X = "-2.749999"
+HSM_DECAL_AMBIENT_LIGHTING_MULTIPLIER = "0.000000"
+HSM_DECAL_AMBIENT2_LIGHTING_MULTIPLIER = "100.000000"
+HSM_DECAL_LAYER_ORDER = "3.000000"
+
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_OPACITY = "0.000000"
+HSM_TOP_BLEND_MODE = "2.000000"
+HSM_TOP_FOLLOW_LAYER = "5.000000
+HSM_TOP_FOLLOW_MODE = "1.000000"
+HSM_TOP_MIRROR_WRAP = "0.000000"
+HSM_TOP_LAYER_ORDER = "4.000000"
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/Sinclair_ZX_Spectrum_+2/Spectrum2.png"
+DeviceImage = "../../../Graphics/RCA_E13165F/E13165FB.png"
+DecalImage = "../../../Graphics/Sinclair_ZX_Spectrum_+2/Spectrum2_Decal.png"
+TopLayerImage = "../../../Graphics/Sinclair_ZX_Spectrum_+2/Spectrum2_LED.png"

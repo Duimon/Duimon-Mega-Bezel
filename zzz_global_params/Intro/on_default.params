@@ -1,0 +1,24 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// INTRO PARAMETERS
+// Parameters specific to the intro sequence.
+// Comment out all for the default Mega Bezel intro.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// OFF :: NO INTRO
+// ----------------------------------------------------------------------------------------------------------------
+//HSM_INTRO_WHEN_TO_SHOW = "0.000000"
+
+
+// ON :: DUIMON INTRO
+// ----------------------------------------------------------------------------------------------------------------
+//HSM_INTRO_WHEN_TO_SHOW = "1.000000"
+//IntroImage = "../../Graphics/_Common/Duimon_OSD.png"
+
+
+// ON :: NO IMAGE
+// ----------------------------------------------------------------------------------------------------------------
+//HSM_INTRO_LOGO_BLEND_MODE = "0.000000"

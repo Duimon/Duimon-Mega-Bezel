@@ -1,0 +1,68 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SOURCE_MATTE_TYPE = "2.000000"
+HSM_DEVICE_FOLLOW_LAYER = "2.000000"
+HSM_DEVICE_SCALE = "104.900000"
+HSM_DEVICE_SCALE_X = "99.400000"
+HSM_DEVICE_LAYER_ORDER = "5.000000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_OPACITY = "0.000000"
+HSM_TOP_BLEND_MODE = "2.000000"
+HSM_TOP_FOLLOW_LAYER = "5.000000"
+HSM_TOP_FOLLOW_MODE = "1.000000"
+HSM_TOP_FILL_MODE = "1.000000"
+HSM_TOP_MIRROR_WRAP = "0.000000"
+HSM_TOP_LAYER_ORDER = "4.000000"
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "6.000000"
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_AMBIENT_LIGHTING_MULTIPLIER = "0.000000"
+HSM_DECAL_AMBIENT2_LIGHTING_MULTIPLIER = "100.000000"
+HSM_DECAL_FOLLOW_LAYER = "3.000000"
+HSM_DECAL_FOLLOW_MODE = "1.000000"
+HSM_DECAL_FILL_MODE = "1.000000"
+HSM_DECAL_MIRROR_WRAP = "0.000000"
+HSM_DECAL_LAYER_ORDER = "2.000000"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_SOURCE_MATTE_TYPE = "2.000000"
+HSM_CAB_GLASS_FOLLOW_LAYER = "2.000000"
+HSM_CAB_GLASS_SCALE = "104.900000"
+HSM_CAB_GLASS_SCALE_X = "99.400000"
+HSM_CAB_GLASS_LAYER_ORDER = "4.000000"
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/Sinclair_ZX_Spectrum_+3/Spectrum3.png"
+TopLayerImage = "../../../Graphics/Sinclair_ZX_Spectrum_+3/Spectrum3_LED.png"
+DecalImage = "../../../Graphics/Sinclair_ZX_Spectrum_+3/Spectrum3_Decal.png"
+DeviceImage = "../../../Graphics/_Backgrounds/Dual_Bezel_Bezel.png"
+CabinetGlassImage = "../../../Graphics/_Backgrounds/Dual_Bezel_Frame.png"

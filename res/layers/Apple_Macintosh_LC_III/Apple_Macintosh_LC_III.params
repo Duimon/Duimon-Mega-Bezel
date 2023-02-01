@@ -1,0 +1,64 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_SCALE_KEEP_ASPECT = "0.000000"
+HSM_BG_FILL_MODE = "1.000000"
+HSM_BG_MIRROR_WRAP = "0.000000"
+HSM_VIEWPORT_VIGNETTE_OPACITY = "90.000000"
+HSM_VIEWPORT_VIGNETTE_LAYER_ORDER = "6.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_OPACITY = "50.000000"
+HSM_LED_FOLLOW_LAYER = "4.000000"
+HSM_LED_FOLLOW_MODE = "1.000000"
+HSM_LED_LAYER_ORDER = "7.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_FOLLOW_LAYER = "0.000000"
+HSM_DEVICE_FILL_MODE = "1.000000"
+HSM_DEVICE_LAYER_ORDER = "2.000000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_FOLLOW_LAYER = "1.000000"
+HSM_DECAL_SCALE = "112.200000"
+HSM_DECAL_POS_Y = "-1.850000"
+HSM_DECAL_LAYER_ORDER = "3.000000"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_OPACITY = "50.000000"
+HSM_TOP_BLEND_MODE = "2.000000"
+HSM_TOP_FOLLOW_LAYER = "5.000000"
+HSM_TOP_MIRROR_WRAP = "0.000000"
+HSM_TOP_LAYER_ORDER = "8.000000"
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+TopLayerImage = "../../../Graphics/Apple_Macintosh_IIx/mac_IIx_Monitor_LED.png"
+BackgroundImage = "../../../Graphics/_Backgrounds/Apple_Room5.jpg"
+DeviceImage = "../../../Graphics/Apple_Macintosh_LC_III/mac_lc_III.png"
+DecalImage = "../../../Graphics/Apple_Macintosh_LC_III/mac_lc_III_Monitor.png"
+TopLayerImage = "../../../Graphics/Apple_Macintosh_LC_III/mac_lc_III_Monitor_LED.png"

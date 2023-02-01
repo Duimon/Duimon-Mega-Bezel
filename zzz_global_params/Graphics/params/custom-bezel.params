@@ -1,0 +1,12 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_NON_INTEGER_SCALE = "86.570000"
+HSM_BZL_WIDTH = "68.000000"
+HSM_BZL_HEIGHT = "54.000000"
+HSM_FRM_THICKNESS = "20.000000"
+HSM_DEVICE_SCALE = "103.600000"
+HSM_DECAL_SCALE = "101.000000"
+HSM_DECAL_SCALE_X = "100.200000"
+HSM_CAB_GLASS_OPACITY = "0.000000"

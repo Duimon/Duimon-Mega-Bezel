@@ -1,0 +1,10 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// AMBIENT LIGHTING PARAMETERS
+// Parameters specific to the opacity of the ambient layers. Other ambient parameters are contained in the Layers params.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_AMBIENT_LIGHTING_OPACITY = "100.000000"
+HSM_LED_OPACITY = "100.000000"

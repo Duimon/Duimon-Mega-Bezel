@@ -1,0 +1,13 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT PARAMETERS
+// Parameters specific to the screen including Guest, Grade, Gel, Diffuse etc. While diffuse parameters are here
+// the iamge paths are in the layers params with the other images.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_CROP_PERCENT_TOP = "5.600000"
+HSM_CROP_PERCENT_BOTTOM = "5.600000"
+HSM_CROP_PERCENT_LEFT = "4.300000"
+HSM_CROP_PERCENT_RIGHT = "4.300000"

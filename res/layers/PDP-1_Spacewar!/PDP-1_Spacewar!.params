@@ -1,0 +1,57 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SOURCE_MATTE_TYPE = "2.000000"
+HSM_DEVICE_FOLLOW_LAYER = "0.000000"
+HSM_DEVICE_LAYER_ORDER = "6.000000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "2.000000"
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_BLEND_MODE = "3.000000"
+HSM_DECAL_DUALSCREEN_VIS_MODE = "2.000000"
+HSM_DECAL_LAYER_ORDER = "5.000000"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_BLEND_MODE = "3.000000"
+HSM_CAB_GLASS_SOURCE_MATTE_TYPE = "1.000000"
+HSM_CAB_GLASS_MASK_MODE = "1.000000"
+HSM_CAB_GLASS_DUALSCREEN_VIS_MODE = "1.000000"
+HSM_CAB_GLASS_LAYER_ORDER = "4.000000"
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_OPACITY = "0.600000"
+HSM_TOP_BLEND_MODE = "2.000000"
+HSM_TOP_LAYER_ORDER = "7.000000"
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/PDP-1_Spacewar!/PDP1_Background.png"
+DeviceImage = "../../../Graphics/PDP-1_Spacewar!/PDP1_Bezel.png"
+TopLayerImage = "../../../Graphics/PDP-1_Spacewar!/PDP1_Extra.png"
+TubeColoredGelImage = "../../../Graphics/PDP-1_Spacewar!/PDP1_Gel.png"

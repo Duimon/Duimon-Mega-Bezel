@@ -1,0 +1,93 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// PRESET START
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: CONNECTOR | Interface to Mega Bezel Presets folders
+// ----------------------------------------------------------------------------------------------------------------
+
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__1__ADV__GDV__DREZ-3DS-400x480.slangp"
+
+
+// INTRO | Intro animation
+// ----------------------------------------------------------------------------------------------------------------
+
+// ON
+#reference "../../../zzz_global_params/Intro/on.params"
+// ON - No Image
+//#reference "../../../zzz_global_params/Intro/on_no_image.params"
+// ON - Default Mega Bezel intro
+//#reference "../../../zzz_global_params/Intro/on_default.params"
+// OFF
+//#reference "../../../zzz_global_params/Intro/off.params"
+
+// DEVICE | Screen/Monitor/CRT/TV settings
+// ----------------------------------------------------------------------------------------------------------------
+
+// DEVICE :: BASE
+#reference "../../../res/bezel/Nintendo_3DS/Nintendo_3DS_Vertical_Alt.params"
+
+// DEVICE :: SCALING
+#reference "../../../res/scale/Nintendo_3DS/Nintendo_3DS_Vertical_Alt.params"
+
+// DEVICE :: CRT
+#reference "../../../res/crt/Nintendo_3DS/Nintendo_3DS.params"
+#reference "../../../res/crt/no_v.params"
+
+// IMAGE LAYERS
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../../res/layers/Nintendo_3DS/Nintendo_3DS_Vertical_Alt.params"
+
+// HSV :: Hue, Saturation, and Value parameters
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../../res/hsv/Nintendo_3DS/Nintendo_3DS_Vertical.params"
+
+// GRAPHICS OVERRIDES | Overrides for Image layers, scaling, etc 
+// that are not related to Guest's shader. (Three examples are provided)
+// These are intended for [Bezel] versions and the following reference should be left commented out for others.
+// ----------------------------------------------------------------------------------------------------------------
+
+// GRAPHICS :: OVERRIDES
+//#reference "../../../res/overrides/batocera.params"
+//#reference "../../../res/overrides/batocera_nocurve.params"
+//#reference "../../../res/overrides/batocera_hud.params"
+
+// GLOBAL GRAPHICS :: OVERRIDES
+// The user can edit the "user.params" to globally change the presets.
+// These are for the bezel, frame, and other graphic attributes.
+// Examples are included in the params file and commented out.
+// These are also intended for [Bezel] versions and the following reference should be left commented out for others.
+//#reference "../../../zzz_global_params/Graphics/user.params"
+
+// The following is restricted to the [Custom-Bezel_002] presets.
+// One example is included in the params file and commented out.
+//#reference "../../../zzz_global_params/Graphics/user2.params"
+
+// SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
+// (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
+// Two examples were kindly provided by guest.r. ;-)
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: OVERRIDES
+//#reference "../../../res/overrides_shader/guest_custom_aperture.params"
+//#reference "../../../res/overrides_shader/guest_custom_slotmask.params"
+
+// GLOBAL SHADER :: OVERRIDES
+// The user can edit the target params file to globally change the presets.
+// To use community params that require another base preset, change the global base reference to match.
+// Examples are included in the params file and commented out.
+// Separate folders let users change global settings on each of the sets.
+// These are intentionally commented out for LCD-GRID presets.
+//#reference "../../../zzz_global_params/Shader/ADV/user.params"
+//#reference "../../../zzz_global_params/Shader/ADV_DREZ/user.params"
+//#reference "../../../zzz_global_params/Shader/STD/user.params"
+//#reference "../../../zzz_global_params/Shader/STD_DREZ/user.params"
+//#reference "../../../zzz_global_params/Shader/LITE/user.params"
+
+// AMBIENT LIGHTING
+#reference "../../../res/lighting/night.params"
+
+// PRESET END
+// ----------------------------------------------------------------------------------------------------------------

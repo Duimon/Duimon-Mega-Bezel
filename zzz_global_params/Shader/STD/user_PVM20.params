@@ -1,0 +1,13 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT SHADER PARAMETERS :: STD
+// Parameters specific to the CRT shader.
+// These are not intended for Mega Bezel community presets, but for Guest etc. standalone derivitives.
+// Mega Bezel community presets will require an external refernce.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+//#reference "/params/guest_custom_aperture.params"
+//#reference "/params/guest_custom_slotmask.params"

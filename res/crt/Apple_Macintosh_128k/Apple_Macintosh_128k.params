@@ -1,0 +1,16 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT PARAMETERS
+// Parameters specific to the screen including Guest, Grade, Gel, Diffuse etc. While diffuse parameters are here
+// the iamge paths are in the layers params with the other images.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_INTERLACE_TRIGGER_RES = "100.000000"
+HSM_SCREEN_VIGNETTE_STRENGTH = "20.000000"
+HSM_SCREEN_VIGNETTE_POWER = "16.000000"
+HSM_TUBE_DIFFUSE_MODE = "1.000000"
+HSM_TUBE_DIFFUSE_FORCE_ASPECT = "0.000000"
+HSM_TUBE_EMPTY_THICKNESS = "1545.000000"
+HSM_SCREEN_CORNER_RADIUS_SCALE = "180.000000"

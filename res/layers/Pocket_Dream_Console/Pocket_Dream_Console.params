@@ -1,0 +1,63 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+HSM_BG_MIRROR_WRAP = "0.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_FOLLOW_LAYER = "4.000000"
+HSM_LED_LAYER_ORDER = "10.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SCALE = "141.700409"
+HSM_DEVICE_POS_Y = "-1.500000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "6.000000"
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_FOLLOW_LAYER = "4.000000"
+HSM_DECAL_LAYER_ORDER = "2.000000"
+
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_SOURCE_MATTE_TYPE = "2.000000"
+HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
+HSM_CAB_GLASS_LAYER_ORDER = "4.000000"
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_APPLY_AMBIENT_IN_ADD_MODE = "1.000000"
+HSM_TOP_BLEND_MODE = "1.000000"
+HSM_TOP_SOURCE_MATTE_TYPE = "2.000000"
+HSM_TOP_FOLLOW_LAYER = "4.000000"
+HSM_TOP_MIRROR_WRAP = "0.000000"
+HSM_TOP_LAYER_ORDER = "5.000000"
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
+CabinetGlassImage = "../../../Graphics/Pocket_Dream_Console/PDC_Glass.png"
+DeviceImage = "../../../Graphics/Pocket_Dream_Console/PDC_Device.png"
+DecalImage = "../../../Graphics/Pocket_Dream_Console/PDC_Decal.png"
+LEDImage = "../../../Graphics/Pocket_Dream_Console/PDC_LED.png"
+TopLayerImage = "../../../Graphics/Pocket_Dream_Console/PDC_Top.png"

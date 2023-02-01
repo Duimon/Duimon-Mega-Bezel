@@ -1,0 +1,91 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// PRESET START
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: CONNECTOR | Interface to Mega Bezel Presets folders
+// ----------------------------------------------------------------------------------------------------------------
+
+#reference "../../../zzz_global_params/Base_Shader/STD_DREZ_1080.slangp"
+
+// INTRO | Intro animation
+// ----------------------------------------------------------------------------------------------------------------
+
+// ON
+#reference "../../../zzz_global_params/Intro/on.params"
+// ON - No Image
+//#reference "../../../zzz_global_params/Intro/on_no_image.params"
+// ON - Default Mega Bezel intro
+//#reference "../../../zzz_global_params/Intro/on_default.params"
+// OFF
+//#reference "../../../zzz_global_params/Intro/off.params"
+
+// DEVICE | Screen/Monitor/CRT/TV settings
+// ----------------------------------------------------------------------------------------------------------------
+
+// DEVICE :: BASE
+#reference "../../../res/bezel/pvm20.params"
+
+// DEVICE :: SCALING
+#reference "../../../res/scale/pvm20.params"
+
+// DEVICE :: CRT
+
+// IMAGE LAYERS
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../../res/layers/pvm20.params"
+#reference "../../../res/layers/Nintendo_Gamecube/pvm20.params"
+
+// HSV :: Hue, Saturation, and Value parameters
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../../res/hsv/Nintendo_Gamecube/pvm20.params"
+
+// GRAPHICS OVERRIDES | Overrides for Image layers, scaling, etc 
+// that are not related to Guest's shader. (Three examples are provided)
+// These are intended for [Bezel] versions and the following reference should be left commented out for others.
+// ----------------------------------------------------------------------------------------------------------------
+
+// GRAPHICS :: OVERRIDES
+//#reference "../../../res/overrides/batocera.params"
+//#reference "../../../res/overrides/batocera_nocurve.params"
+//#reference "../../../res/overrides/batocera_hud.params"
+
+// GLOBAL GRAPHICS :: OVERRIDES
+// The user can edit the "user.params" to globally change the presets.
+// These are for the bezel, frame, and other graphic attributes.
+// Examples are included in the params file and commented out.
+// These are also intended for [Bezel] versions and the following reference should be left commented out for others.
+//#reference "../../../zzz_global_params/Graphics/user.params"
+
+// The following is restricted to the [Custom-Bezel_002] presets.
+// One example is included in the params file and commented out.
+//#reference "../../../zzz_global_params/Graphics/user2.params"
+
+// SHADER OVERRIDES | Place *.params references to Guest derivatives here. 
+// (Make sure you are using ADV__GDV, STD__GDV, or POTATO__GDV base presets for variations on the Guest shader.)
+// Two examples were kindly provided by guest.r. ;-)
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: OVERRIDES
+//#reference "../../../res/overrides_shader/guest_custom_aperture.params"
+//#reference "../../../res/overrides_shader/guest_custom_slotmask.params"
+
+// GLOBAL SHADER :: OVERRIDES
+// The user can edit the target params file to globally change the presets.
+// To use community params that require another base preset, change the global base reference to match.
+// Examples are included in the params file and commented out.
+// Separate folders let users change global settings on each of the sets.
+// These are intentionally commented out for LCD-GRID presets.
+//#reference "../../../zzz_global_params/Shader/ADV/user_PVM20.params"
+//#reference "../../../zzz_global_params/Shader/ADV_DREZ/user_PVM20.params"
+//#reference "../../../zzz_global_params/Shader/STD/user_PVM20.params"
+#reference "../../../zzz_global_params/Shader/STD_DREZ/user_PVM20.params"
+//#reference "../../../zzz_global_params/Shader/LITE/user_PVM20.params"
+
+// AMBIENT LIGHTING
+#reference "../../../res/lighting/monitor.params"
+
+// PRESET END
+// ----------------------------------------------------------------------------------------------------------------

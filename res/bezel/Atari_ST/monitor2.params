@@ -1,0 +1,22 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BEZEL PARAMETERS
+// Parameters specific to the bezel and frame. Tube Black Edge paramters are also contained here, since the corner radius 
+// is closely tied to the bezel inner corner radius.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_SCREEN_CORNER_RADIUS = "24.000000"
+HSM_BZL_INNER_CORNER_RADIUS_SCALE = "300.000000"
+HSM_BZL_WIDTH = "154.000000"
+HSM_BZL_OUTER_CORNER_RADIUS_SCALE = "165.000000"
+HSM_TUBE_BLACK_EDGE_CORNER_RADIUS_SCALE = "300.000000"
+HSM_BZL_NOISE = "10.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_FRM_THICKNESS_SCALE_X = "222.000000"
+HSM_FRM_OUTER_CORNER_RADIUS = "8.650014"
+HSM_FRM_OUTER_EDGE_SHADING = "45.000000"
+HSM_FRM_SHADOW_OPACITY = "0.000000"
+HSM_FRM_SHADOW_WIDTH = "37.000000"

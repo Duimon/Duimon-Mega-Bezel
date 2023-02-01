@@ -1,0 +1,27 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE SHADER REFERENCES
+// INSURE THAT THE BASE SHADER MATCHES THAT OF ANY GLOBAL PARAMS YOU USE
+// ----------------------------------------------------------------------------------------------------------------
+
+
+//There is no LITE LCD-GRID SO THE STANDARD BASE PRESET IS USED
+
+
+// STANDARD :: For regular setup.
+// ----------------------------------------------------------------------------------------------------------------
+
+#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__LCD-GRID.slangp"
+
+
+// STANDARD NO-REFLECT :: For performant setup.
+// ----------------------------------------------------------------------------------------------------------------
+
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-NO-REFLECT__LCD-GRID.slangp"
+
+
+// Turn off screen vignette by default.
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/crt/no_v.params"

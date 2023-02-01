@@ -1,0 +1,58 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+HSM_BG_MIRROR_WRAP = "0.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_FOLLOW_LAYER = "4.000000"
+HSM_LED_LAYER_ORDER = "6.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SCALE = "149.400879"
+HSM_DEVICE_POS_Y = "-1.250000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "8.000000"
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_FOLLOW_LAYER = "4.000000"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_LAYER_ORDER = "2.000000"
+HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_BLEND_MODE = "2.000000"
+HSM_TOP_APPLY_AMBIENT_IN_ADD_MODE = "1.000000"
+HSM_TOP_FOLLOW_LAYER = "4.000000"
+HSM_TOP_MIRROR_WRAP = "0.000000"
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
+CabinetGlassImage = "../../../Graphics/Gamepark_GP32/GP32_Glass.png"
+DeviceImage = "../../../Graphics/Gamepark_GP32/GP32_Device.png"
+DecalImage = "../../../Graphics/Gamepark_GP32/GP32_Decal.png"
+LEDImage = "../../../Graphics/Gamepark_GP32/GP32_LED.png"
+TopLayerImage = "../../../Graphics/Gamepark_GP32/GP32_Top.png"

@@ -1,0 +1,1 @@
+# These are plain images without a logo.

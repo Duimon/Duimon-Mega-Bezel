@@ -1,0 +1,33 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BEZEL PARAMETERS
+// Parameters specific to the bezel and frame. Tube Black Edge paramters are also contained here, since the corner radius 
+// is closely tied to the bezel inner corner radius.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_TUBE_BLACK_EDGE_THICKNESS = "0.000000"
+HSM_BZL_INNER_CORNER_RADIUS_SCALE = "259.000000"
+HSM_BZL_BLEND_MODE = "0.000000"
+HSM_BZL_WIDTH = "1258.000000"
+HSM_BZL_HEIGHT = "943.000000"
+HSM_BZL_INNER_EDGE_THICKNESS = "0.000000"
+HSM_BZL_INNER_EDGE_SHARPNESS = "90.000000"
+HSM_BZL_HIGHLIGHT = "0.000000"
+HSM_BZL_NOISE = "0.000000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
+HSM_FRM_OUTER_EDGE_SHADING = "40.000000"
+HSM_FRM_SHADOW_WIDTH = "50.000000"
+HSM_REFLECT_GLOBAL_AMOUNT = "37.000000"
+HSM_REFLECT_GLOBAL_GAMMA_ADJUST = "1.500000"
+HSM_REFLECT_DIRECT_AMOUNT = "28.000000"
+HSM_REFLECT_FADE_AMOUNT = "40.000000"
+HSM_REFLECT_RADIAL_FADE_WIDTH = "0.000000"
+HSM_REFLECT_RADIAL_FADE_HEIGHT = "0.000000"
+HSM_REFLECT_LATERAL_OUTER_FADE_POSITION = "73.500000"
+HSM_REFLECT_LATERAL_OUTER_FADE_DISTANCE = "161.500000"
+HSM_REFLECT_CORNER_FADE = "5.500000"
+HSM_REFLECT_CORNER_INNER_SPREAD = "1000.000000"
+HSM_REFLECT_CORNER_OUTER_SPREAD = "1000.000000"

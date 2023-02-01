@@ -1,0 +1,23 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT PARAMETERS
+// Parameters specific to the screen including Guest, Grade, Gel, Diffuse etc. While diffuse parameters are here
+// the iamge paths are in the layers params with the other images.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_FAKE_SCANLINE_RES = "168.000000"
+HSM_FAKE_SCANLINE_INT_SCALE = "0.000000"
+HSM_TUBE_COLORED_GEL_IMAGE_FAKE_SCANLINE_AMOUNT = "79.000000"
+GAMMA_INPUT = "2.750000"
+HSM_TUBE_COLORED_GEL_IMAGE_ON = "1.000000"
+HSM_TUBE_COLORED_GEL_IMAGE_MULTIPLY_AMOUNT = "0.000000"
+HSM_TUBE_COLORED_GEL_IMAGE_NORMAL_AMOUNT = "100.000000"
+HSM_TUBE_COLORED_GEL_IMAGE_NORMAL_BRIGHTNESS = "60.000000"
+HSM_TUBE_COLORED_GEL_IMAGE_TRANSPARENCY_THRESHOLD = "0.000000"
+HSM_TUBE_COLORED_GEL_IMAGE_AMBIENT_LIGHTING = "0.000000"
+HSM_TUBE_BLACK_EDGE_LAYERING_MODE = "0.000000"
+HSM_TUBE_STATIC_SCALE = "130.000000"
+HSM_TUBE_EMPTY_THICKNESS = "3870.000000"
+HSM_TUBE_EMPTY_THICKNESS_X_SCALE = "90.000000"

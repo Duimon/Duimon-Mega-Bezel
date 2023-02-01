@@ -1,0 +1,28 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BEZEL PARAMETERS
+// Parameters specific to the bezel and frame. Tube Black Edge paramters are also contained here, since the corner radius 
+// is closely tied to the bezel inner corner radius.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_CURVATURE_2D_SCALE_LONG_AXIS = "5.000000"
+HSM_CURVATURE_2D_SCALE_SHORT_AXIS = "5.000000"
+HSM_BZL_USE_INDEPENDENT_CURVATURE = "1.000000"
+HSM_BZL_INDEPENDENT_CURVATURE_SCALE_LONG_AXIS = "15.000000"
+HSM_BZL_INDEPENDENT_CURVATURE_SCALE_SHORT_AXIS = "15.000000"
+HSM_BZL_WIDTH = "80.000000"
+HSM_BZL_HEIGHT = "80.000000"
+HSM_BZL_INNER_CORNER_RADIUS_SCALE = "114.000000"
+HSM_BZL_OUTER_CORNER_RADIUS_SCALE = "160.000000"
+HSM_TUBE_BLACK_EDGE_LAYERING_MODE = "0.000000"
+HSM_TUBE_BLACK_EDGE_THICKNESS = "0.000000"
+HSM_BZL_NOISE = "10.000000"
+HSM_FRM_NOISE = "10.000000"
+HSM_FRM_OPACITY = "0.000000"
+HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
+
+// The independant curvature is intentional. Apple used a thick border around 
+// the screen and compensated for the screen curavature so the desktop had none.
+// It makes sense when you actually run the Apple OS. ;-)

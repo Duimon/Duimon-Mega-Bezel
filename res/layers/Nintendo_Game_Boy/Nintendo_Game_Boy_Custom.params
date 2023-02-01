@@ -1,0 +1,51 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+HSM_BG_MIRROR_WRAP = "0.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_OPACITY = "0.000000"
+HSM_LED_FOLLOW_LAYER = "4.000000"
+HSM_LED_LAYER_ORDER = "3.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SCALE = "137.600159"
+HSM_DEVICE_POS_Y = "-15.100039"
+HSM_DEVICE_LAYER_ORDER = "2.000000"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
+DeviceImage = "../../../Graphics/Nintendo_Game_Boy/Gameboy_Advanced.png"
+LEDImage = "../../../Graphics/Nintendo_Game_Boy/Gameboy_LED.png"
+TubeDiffuseImage = "../../../Graphics/_Common/Gameboy_Diffuse.jpg"
+TubeColoredGelImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Nintendo_Game_Boy/Gameboy_GEL.png"
