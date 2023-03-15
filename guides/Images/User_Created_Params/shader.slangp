@@ -1,0 +1,7 @@
+#reference "Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation/Playstation_Alt-[STD]-[Guest]-[Bezel].slangp"
+m_glow = "1.000000"
+glow = "0.300000"
+gsl = "1.000000"
+shadowMask = "7.000000"
+masksize = "0.000000"
+slotmask = "0.400000"

@@ -46,13 +46,13 @@
 #reference "../../../res/bezel/SEGA_Naomi/SEGA_Naomi.params"
 
 // DEVICE :: SCALING
-#reference "../../../res/scale/SEGA_Naomi/SEGA_Naomi.params"
+#reference "../../../res/scale/SEGA_Naomi/$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/layers/SEGA_Naomi/SEGA_Naomi.params"
+#reference "../../../res/layers/SEGA_Naomi/$CORE-REQ-ROT$.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------
@@ -101,7 +101,7 @@
 //#reference "../../../zzz_global_params/Shader/LITE/user.params"
 
 // AMBIENT LIGHTING
-//#reference "../../../res/lighting/SEGA_Naomi.params"
+//#reference "../../../res/lighting/night.params"
 
 // PRESET END
 // ----------------------------------------------------------------------------------------------------------------

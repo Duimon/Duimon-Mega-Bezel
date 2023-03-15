@@ -1,0 +1,6 @@
+#reference "Mega_Bezel_Community/Duimon-Mega-Bezel/Presets/Standard/SONY_Playstation/Playstation_Alt-[STD]-[Guest]-[Bezel].slangp"
+HSM_NON_INTEGER_SCALE = "88.769913"
+HSM_BZL_WIDTH = "80.000000"
+HSM_BZL_HEIGHT = "70.000000"
+HSM_FRM_THICKNESS = "50.000000"
+HSM_DECAL_OPACITY = "0.000000"

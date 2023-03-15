@@ -39,7 +39,7 @@
 #reference "../../../res/bezel/FB-Neo/CAB.params"
 
 // DEVICE :: SCALING
-#reference "../../../res/scale/FB-Neo/CAB.params"
+#reference "../../../res/scale/FB-Neo/CAB_$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 

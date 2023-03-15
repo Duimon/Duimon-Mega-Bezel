@@ -7,6 +7,8 @@
 // is closely tied to the bezel inner corner radius.
 // ----------------------------------------------------------------------------------------------------------------
 
+HSM_CURVATURE_MODE = "4.000000"
+HSM_CURVATURE_3D_TILT_ANGLE_Y = "-4.000000"
 HSM_BZL_NOISE = "10.000000"
 HSM_FRM_NOISE = "10.000000"
 HSM_FRM_SHADOW_OPACITY = "100.000000"

@@ -44,6 +44,7 @@
 
 // DEVICE :: SCALING
 #reference "../../../res/scale/bezel.params"
+#reference "../../../res/scale/FB-Neo/$CORE-REQ-ROT$.params"
 
 // DEVICE :: CRT
 
