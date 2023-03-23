@@ -32,12 +32,12 @@
 // SCREEN ONLY :: For hybrid overlay setup.
 // ----------------------------------------------------------------------------------------------------------------
 
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__EASYMODE.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV-MINI.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV-MINI-NTSC.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV-NTSC.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__MEGATRON.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__MEGATRON-NTSC.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY-SUPER-XBR__GDV.slangp
-//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY-SUPER-XBR__GDV-NTSC.slangp
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__EASYMODE.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV-MINI.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV-MINI-NTSC.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__GDV-NTSC.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__MEGATRON.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY__MEGATRON-NTSC.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY-SUPER-XBR__GDV.slangp"
+//#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__4__STD-SCREEN-ONLY-SUPER-XBR__GDV-NTSC.slangp"
