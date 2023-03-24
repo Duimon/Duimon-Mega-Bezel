@@ -64,7 +64,7 @@ This is an abbreviated sample that shows the only uncommented reference line.
 #reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV.slangp"
 ```
 
-Make note of this base preset for use later. For other community presets the process is the same, but you may need to follow more that one consecutive reference before finding the base preset.
+Make note of this base preset for use later. For other community presets the process is the same, but you may need to follow consecutive references before finding the base preset.
 
 ---
 
@@ -239,7 +239,7 @@ DecalImage = "Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/SONY_Playstation/P
 
 ```
 
-As long as it is located in the root shaders folder, this could now be used as a params file. To make it a standalone slangp preset we need to add the reference line from the first exersise in the guide.
+As long as it is located in the root shaders folder, this could now be used as a params file. To make it a standalone slangp preset we need to add the reference line from the first exercise in the guide.
 
 ```cpp
 #reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV.slangp"
@@ -265,7 +265,7 @@ DecalImage = "Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/SONY_Playstation/P
 
 ```
 
-Almost done. We need to strip the leading ```../../../``` from the reference path so it reads.
+Almost done. We need to strip the leading ```../../../../``` from the reference path so it reads.
 
 ```cpp
 #reference "shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets/MBZ__3__STD__GDV.slangp"

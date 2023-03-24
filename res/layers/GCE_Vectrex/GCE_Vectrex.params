@@ -41,7 +41,7 @@ HSM_DEVICE_LAYER_ORDER = "2.000000"
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-TubeColoredGelImage = "../../../Graphics/GCE_Vectrex/Vectrex_Overlays/Mega.png"
+TubeColoredGelImage = "../../../Graphics/GCE_Vectrex/Vectrex_Overlays/$GAME$.png"
 BackgroundVertImage = "../../../Graphics/GCE_Vectrex/Vectrex_Background.png"
 DeviceVertImage = "../../../Graphics/GCE_Vectrex/Vectrex_Advanced_Bezel.png"
 DeviceImage = "../../../Graphics/GCE_Vectrex/Vectrex_Advanced_Bezel.png"
