@@ -418,7 +418,7 @@ There is a section description at the top, followed by some commented local over
 
 The example local reference params are extracted from the presets I used to generated decorations for my Batocera project. Each line references a params file that will change parameters having to do with the bezel. (Scale, curvature, frame thickness, bezel height etc.) By choosing which line to comment, changes can be made to each preset locally.
 
-My intent is to allow the user to add there own params files to the same folder and add active reference lines here. They are not limited to the bezel and scale changes provided by the example params, but my intent was for any params related to the CRT shader to be in the second override section.
+My intent is to allow the user to add their own params files to the same folder and add active reference lines here. They are not limited to the bezel and scale changes provided by the example params, but my intent was for any params related to the CRT shader to be in the second override section.
 
 Note that these options are more directly targeted at preset developers using the boilerplate, it may be preferable for most users to add external references to a saved preset. I will discuss the benefits of both methods in another guide.
 
