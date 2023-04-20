@@ -1,4 +1,4 @@
-# HSM Reflection Shader Graphics
+# Duimon Mega Bezel Graphics
 
 ## 4K System graphics created specifically for use with the HSM Mega Bezel Reflection Shader.
 

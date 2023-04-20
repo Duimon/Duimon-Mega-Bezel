@@ -37,3 +37,4 @@
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/ColecoVision/ColecoVision.png"
+DecalImage = "../../../Graphics/ColecoVision/ColecoVision_Decal.png"

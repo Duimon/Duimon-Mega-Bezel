@@ -48,10 +48,8 @@ HSM_DECAL_POS_Y = "-7.250007"
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-BackgroundImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/wood.jpg"
-//BackgroundVertImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/wood.jpg"
-LEDImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm_LED.png"
-DeviceImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm.png"
-//DeviceVertImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm.png"
-DecalImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm_Decal.png"
-TubeColoredGelImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/Palm/Palm_Gel.png"
+BackgroundImage = "../../../Graphics/Palm/wood.jpg"
+LEDImage = "../../../Graphics/Palm/Palm_LED.png"
+DeviceImage = "../../../Graphics/Palm/Palm.png"
+DecalImage = "../../../Graphics/Palm/Palm_Decal.png"
+TubeColoredGelImage = "../../../Graphics/Palm/Palm_Gel.png"
