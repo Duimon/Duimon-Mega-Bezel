@@ -44,6 +44,6 @@ HSM_DECAL_LAYER_ORDER = "4.000000"
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-BackgroundImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/_Backgrounds/Canvas_Background.jpg"
-DeviceImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/SEGA_Pico/SEGA_Pico_Monitor.png"
-DecalImage = ":/shaders/Mega_Bezel_Community/Duimon-Mega-Bezel/Graphics/SEGA_Pico/SEGA_Pico.png"
+BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
+DeviceImage = "../../../Graphics/SEGA_Pico/SEGA_Pico_Monitor.png"
+DecalImage = "../../../Graphics/SEGA_Pico/SEGA_Pico.png"
