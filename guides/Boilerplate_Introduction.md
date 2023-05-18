@@ -270,6 +270,8 @@ This is a global reference line that is shared by all the Advanced "Bezel" prese
 
 I have five standard subclasses in my presets; Bezel, Custom_Bezel_001, Custom_Bezel_002, PVM20, and TM20. Each of these has a matching global reference target.
 
+There is one additional subclass for presets that don't fit into any of these categories. (e.g. "Monitor" presets.)
+
 The section below the active reference will let you define the base preset locally. I will focus on this more in another guide.
 
 Let's examine the global reference path.

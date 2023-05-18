@@ -1,0 +1,60 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE LAYER PARAMETERS
+// Parameters specific to the image layers, excluding HSV parameters which are contained in the HSV params.
+// ----------------------------------------------------------------------------------------------------------------
+
+
+// BACKGROUND
+// ----------------------------------------------------------------------------------------------------------------
+HSM_BG_FILL_MODE = "1.000000"
+
+// LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_LED_OPACITY = "0.000000"
+HSM_LED_FILL_MODE = "1.000000"
+
+// DEVICE
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SCALE = "146.000671"
+HSM_DEVICE_POS_X = "16.950027"
+HSM_DEVICE_POS_Y = "-14.700038"
+
+// DEVICE LED
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICELED_OPACITY = "0.000000"
+
+// CRT
+// ----------------------------------------------------------------------------------------------------------------
+
+// DECAL
+// ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_FOLLOW_LAYER = "4.000000"
+
+// CABINET GLASS
+// ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_AMBIENT_LIGHTING_MULTIPLIER = "0.000000"
+HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
+
+// TOP EXTRA
+// ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_AMBIENT_LIGHTING_MULTIPLIER = "0.000000"
+HSM_TOP_FOLLOW_LAYER = "4.000000"
+
+// AMBIENT
+// ----------------------------------------------------------------------------------------------------------------
+
+// IMAGE PATHS
+// ----------------------------------------------------------------------------------------------------------------
+IntroImage = "../../../Graphics/_Common/Duimon_OSD.png"
+TubeDiffuseImage = "../../../Graphics/_Common/phosphor_01.png"
+//TubeDiffuseImage = "../../../Graphics/_Common/mirror_girl_2.png"
+TubeStaticReflectionImage = "../../../Graphics/_Common/Tube_Reflection_01.png"
+BackgroundImage = "../../../Graphics/_Backgrounds/Infocom_Background.jpg"
+CabinetGlassImage = "../../../Graphics/Infocom_Z-Machine/b+w/$GAME$.png"
+DeviceImage = "../../../Graphics/Infocom_Z-Machine/9519.png"
+DeviceLEDImage = "../../../Graphics/Infocom_Z-Machine/9519_LED.png"
+DecalImage = "../../../Graphics/Infocom_Z-Machine/9519_Decal.png"
+TopLayerImage = "../../../Graphics/Infocom_Z-Machine/logo_b+w.png"
