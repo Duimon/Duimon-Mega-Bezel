@@ -1,0 +1,20 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// SCALE PARAMETERS
+// Parameters specific to the scale, aspect, and position of the screen.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_NON_INTEGER_SCALE = "141.169113"
+HSM_SCREEN_POSITION_X = "7.000000"
+HSM_SCREEN_POSITION_Y = "-32.000000"
+HSM_DUALSCREEN_MODE = "2.000000"
+HSM_DUALSCREEN_VIEWPORT_SPLIT_LOCATION = "288.000000"
+HSM_DUALSCREEN_POSITION_OFFSET_BETWEEN_SCREENS = "24.400028"
+HSM_2ND_SCREEN_INDEPENDENT_SCALE = "1.000000"
+HSM_2ND_SCREEN_SCALE_OFFSET = "75.000000"
+HSM_2ND_SCREEN_POS_X = "13.000000"
+HSM_2ND_SCREEN_POS_Y = "259.000000"
+HSM_CURVATURE_MODE = "0.000000"
