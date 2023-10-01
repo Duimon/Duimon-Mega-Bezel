@@ -41,6 +41,5 @@ HSM_LED_OPACITY = "100.000000"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/TV/TV7_Mega_Bezel_Square.png"
-BackgroundVertImage = "../../../Graphics/TV/TV7_Mega_Bezel_Square.png"
 LEDImage = "../../../Graphics/ChaiLove/TV7_Mega_Bezel_ChaiLove_LED.png"
 

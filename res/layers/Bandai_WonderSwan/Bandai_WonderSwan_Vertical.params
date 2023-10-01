@@ -44,4 +44,3 @@ HSM_DEVICE_POS_Y = "-0.600000"
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
 DeviceImage = "../../../Graphics/Bandai_WonderSwan/WonderSwan_Vertical_Advanced_Bezel.png"
-DeviceVertImage = "../../../Graphics/Bandai_WonderSwan/WonderSwan_Vertical_Advanced_Bezel.png"

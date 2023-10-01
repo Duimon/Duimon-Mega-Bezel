@@ -56,7 +56,7 @@
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/hsv/MAME/CAB.params"
+#reference "../../../res/hsv/MAME/CAB_$CORE-REQ-ROT$.params"
 
 // GRAPHICS OVERRIDES | Overrides for Image layers, scaling, etc 
 // that are not related to Guest's shader. (Three examples are provided)

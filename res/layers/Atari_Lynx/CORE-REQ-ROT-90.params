@@ -45,7 +45,7 @@ HSM_DECAL_FOLLOW_LAYER = "3.000000"
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-BackgroundVertImage = "../../../Graphics/_Backgrounds/Blue_Canvas.jpg"
-DeviceVertImage = "../../../Graphics/Atari_Lynx/Lynx_Vertical.png"
+BackgroundImage = "../../../Graphics/_Backgrounds/Blue_Canvas.jpg"
+DeviceImage = "../../../Graphics/Atari_Lynx/Lynx_Vertical.png"
 DecalImage = "../../../Graphics/Atari_Lynx/Lynx_Vertical_Decal.png"
 LEDImage = "../../../Graphics/Atari_Lynx/Lynx_Vertical_LED.png"

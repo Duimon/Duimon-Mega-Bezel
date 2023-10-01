@@ -1,0 +1,10 @@
+// DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// SCALE PARAMETERS
+// Parameters specific to the scale, aspect, and position of the screen.
+// ----------------------------------------------------------------------------------------------------------------
+
+HSM_ASPECT_RATIO_MODE = "2.000000"
+HSM_ASPECT_RATIO_ORIENTATION = "0.000000"

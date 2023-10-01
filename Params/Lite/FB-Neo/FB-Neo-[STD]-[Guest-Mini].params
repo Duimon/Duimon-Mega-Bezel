@@ -47,7 +47,7 @@
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
 #reference "../../../res/layers/bezel.params"
-#reference "../../../res/layers/FB-Neo/bezel.params"
+#reference "../../../res/layers/FB-Neo/bezel_$CORE-REQ-ROT$.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------

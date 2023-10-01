@@ -53,7 +53,7 @@
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
 #reference "../../../res/layers/bezel.params"
-#reference "../../../res/layers/MAME/bezel.params"
+#reference "../../../res/layers/MAME/bezel_$CORE-REQ-ROT$.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------

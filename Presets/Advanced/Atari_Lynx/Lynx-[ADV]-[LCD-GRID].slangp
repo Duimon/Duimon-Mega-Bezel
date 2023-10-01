@@ -30,13 +30,13 @@
 #reference "../../../res/bezel/Atari_Lynx/Atari_Lynx.params"
 
 // DEVICE :: SCALING
-#reference "../../../res/scale/Atari_Lynx/$CORE-REQ-ROT$.params"
+#reference "../../../res/scale/Atari_Lynx/Atari_Lynx.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/layers/Atari_Lynx/$CORE-REQ-ROT$.params"
+#reference "../../../res/layers/Atari_Lynx/Atari_Lynx.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------

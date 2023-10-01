@@ -55,7 +55,6 @@ HSM_AMBIENT1_POSITION_Y = "216.000000"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
-BackgroundVertImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
 DeviceImage = "../../../Graphics/Bit_Corp_Gamate/Gamate.png"
 CabinetGlassImage = "../../../Graphics/Bit_Corp_Gamate/Gamate_Glass.png"
 DecalImage = "../../../Graphics/Bit_Corp_Gamate/Gamate_Decal.png"

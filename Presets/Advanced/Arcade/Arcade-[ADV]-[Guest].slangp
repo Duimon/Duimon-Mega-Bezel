@@ -46,14 +46,14 @@
 #reference "../../../res/bezel/bezel.params"
 
 // DEVICE :: SCALING
-#reference "../../../res/scale/bezel.params"
+#reference "../../../res/scale/Arcade/bezel.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
 #reference "../../../res/layers/bezel.params"
-#reference "../../../res/layers/Arcade/bezel.params"
+#reference "../../../res/layers/Arcade/bezel_$CORE-ASPECT-ORIENT$.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------

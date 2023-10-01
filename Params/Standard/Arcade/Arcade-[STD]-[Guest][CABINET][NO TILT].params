@@ -49,7 +49,7 @@
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/layers/Arcade/CAB_No_Tilt.params"
+#reference "../../../res/layers/Arcade/CAB_No_Tilt_$CORE-ASPECT-ORIENT$.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------

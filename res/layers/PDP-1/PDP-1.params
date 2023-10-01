@@ -42,7 +42,6 @@ HSM_DECAL_LAYER_ORDER = "2.000000"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/PDP-1/PDP1_4x3.png"
-BackgroundVertImage = "../../../Graphics/PDP-1/PDP1_4x3.png"
 LEDImage = "../../../Graphics/PDP-1/PDP1_4x3_LED.png"
 DecalImage = "../../../Graphics/PDP-1/PDP1_4x3_Decal.png"
 

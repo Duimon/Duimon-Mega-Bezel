@@ -46,8 +46,6 @@ HSM_DECAL_FOLLOW_LAYER = "4.000000"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
-BackgroundVertImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
 LEDImage = "../../../Graphics/PICO-8/PICO-8_LED.png"
 DeviceImage = "../../../Graphics/PICO-8/PICO-8_Advanced_Bezel.png"
-DeviceVertImage = "../../../Graphics/PICO-8/PICO-8_Advanced_Bezel.png"
 DecalImage = "../../../Graphics/PICO-8/PICO-8_Advanced_Decal.png"
