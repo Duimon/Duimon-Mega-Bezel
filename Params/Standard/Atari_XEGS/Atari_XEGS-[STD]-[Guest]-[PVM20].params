@@ -19,7 +19,7 @@
 // 01. STD__EASYMODE                    05. STD__MEGATRON-NTSC
 // 02. STD__GDV                         06. STD-SUPER-XBR__GDV
 // 03. STD__GDV-NTSC                    07. STD-SUPER-XBR__GDV-NTSC
-// 04. STD__MEGATRON
+// 04. STD__MEGATRON                    08. STD__PASSTHROUGH
 
 // INTRO | Intro animation
 // ----------------------------------------------------------------------------------------------------------------

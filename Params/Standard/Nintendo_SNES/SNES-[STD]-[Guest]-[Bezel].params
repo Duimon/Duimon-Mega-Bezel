@@ -15,14 +15,14 @@
 // Comment out the top reference line and uncomment the following reference line to locally define the base preset.
 // Keep in mind that some of the base presets use Integer Scale and may yield unexpected results. (e.g. Megatron)
 
-//#reference "../../../zzz_global_params/Local_Shader/STD_02.slangp"
+#reference "../../../zzz_global_params/Local_Shader/STD_06.slangp"
 
 // "STD_02" matches the default "MBZ__3__STD__GDV.slangp".
 // Replace the "02" with any from the following list.
 // 01. STD__EASYMODE                    05. STD__MEGATRON-NTSC
 // 02. STD__GDV                         06. STD-SUPER-XBR__GDV
 // 03. STD__GDV-NTSC                    07. STD-SUPER-XBR__GDV-NTSC
-// 04. STD__MEGATRON
+// 04. STD__MEGATRON                    08. STD__PASSTHROUGH
 
 // INTRO | Intro animation
 // ----------------------------------------------------------------------------------------------------------------

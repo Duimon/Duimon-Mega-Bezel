@@ -9,6 +9,11 @@
 // ----------------------------------------------------------------------------------------------------------------
 
 //#reference "../../../zzz_global_params/Base_Shader/STD_LCD.slangp"
+//#reference "../../../zzz_global_params/Base_Shader/STD_LCD_PASSTHROUGH.slangp"
+
+// SHADER :: CONNECTOR :: PASSTHROUGH OVERRIDE
+// Follow the top reference and edit the target file to globally override the base preset.
+// Change the active reference to locally override the base preset.
 
 
 // INTRO | Intro animation
@@ -30,13 +35,13 @@
 #reference "../../../res/bezel/Atari_Lynx/Atari_Lynx.params"
 
 // DEVICE :: SCALING
-#reference "../../../res/scale/Atari_Lynx/$CORE-REQ-ROT$.params"
+#reference "../../../res/scale/Atari_Lynx/Atari_Lynx-270.params"
 
 // DEVICE :: CRT
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/layers/Atari_Lynx/$CORE-REQ-ROT$.params"
+#reference "../../../res/layers/Atari_Lynx/Atari_Lynx-270.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------

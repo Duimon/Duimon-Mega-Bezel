@@ -8,7 +8,7 @@
 // SHADER :: CONNECTOR | Interface to Mega Bezel Presets folders
 // ----------------------------------------------------------------------------------------------------------------
 
-//#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__1__ADV__GDV__DREZ-3DS-400x480.slangp"
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__1__ADV__GDV__DREZ-3DS-400x480.slangp"
 
 
 // INTRO | Intro animation

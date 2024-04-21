@@ -9,7 +9,7 @@
 // Edit the target file in the following reference to globally define the base preset.
 // ----------------------------------------------------------------------------------------------------------------
 
-//#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__3__STD__GDV__DREZ-NDS-256x384.slangp"
+#reference "../../../../../shaders_slang/bezel/Mega_Bezel/Presets/Base_CRT_Presets_DREZ/MBZ__3__STD__GDV__DREZ-NDS-256x384.slangp"
 
 
 // INTRO | Intro animation
