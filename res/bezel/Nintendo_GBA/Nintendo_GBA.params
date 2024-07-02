@@ -7,8 +7,8 @@
 // is closely tied to the bezel inner corner radius.
 // ----------------------------------------------------------------------------------------------------------------
 
-HSM_BZL_WIDTH = "80.000000"
-HSM_BZL_HEIGHT = "80.000000"
+HSM_BZL_WIDTH = "40.000000"
+HSM_BZL_HEIGHT = "40.000000"
 HSM_BZL_HIGHLIGHT = "0.000000"
 HSM_BZL_NOISE = "10.000000"
 HSM_FRM_NOISE = "10.000000"

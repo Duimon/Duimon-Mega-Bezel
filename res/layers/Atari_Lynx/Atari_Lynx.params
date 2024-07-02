@@ -9,41 +9,51 @@
 
 // BACKGROUND
 // ----------------------------------------------------------------------------------------------------------------
-HSM_BG_FOLLOW_LAYER = "1.000000"
-HSM_BG_SCALE = "141.400391"
-HSM_BG_POS_Y = "0.100000"
+HSM_BG_FOLLOW_LAYER = "0.000000"
 HSM_BG_MIRROR_WRAP = "0.000000"
 
 // LED
 // ----------------------------------------------------------------------------------------------------------------
-HSM_LED_OPACITY = "0.000000"
-HSM_LED_FOLLOW_LAYER = "3.000000"
+HSM_LED_LAYER_ORDER = "4.000000"
+HSM_LED_OPACITY = "100.000000"
+HSM_LED_FOLLOW_LAYER = "4.000000"
 
 // DEVICE
 // ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICE_SCALE = "218.500275"
+HSM_DEVICELED_BLEND_MODE = "1.000000"
 
 // DEVICE LED
 // ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICELED_LAYER_ORDER = "5.000000"
 
 // CRT
 // ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "6.000000"
 
 // DECAL
 // ----------------------------------------------------------------------------------------------------------------
-HSM_DECAL_OPACITY = "5.9"
-HSM_DECAL_FOLLOW_LAYER = "3.000000"
+HSM_DECAL_OPACITY = "100.000000"
+HSM_DECAL_FOLLOW_LAYER = "4.000000"
 
 // CABINET GLASS
 // ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_OPACITY = "8.000000"
+HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
 
 // TOP EXTRA
 // ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_FOLLOW_LAYER = "4.000000"
 
 // AMBIENT
 // ----------------------------------------------------------------------------------------------------------------
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-BackgroundImage = "../../../Graphics/Atari_Lynx/Lynx.png"
+BackgroundImage = "../../../Graphics/_Backgrounds/Blue_Canvas.jpg"
+CabinetGlassImage = "../../../Graphics/Atari_Lynx/Lynx_Glass.png"
+DeviceImage = "../../../Graphics/Atari_Lynx/Lynx_Device.png"
+DeviceLEDImage = "../../../Graphics/Atari_Lynx/Lynx_Device_LED.png"
 DecalImage = "../../../Graphics/Atari_Lynx/Lynx_Decal.png"
 LEDImage = "../../../Graphics/Atari_Lynx/Lynx_LED.png"
+TopLayerImage = "../../../Graphics/Atari_Lynx/Lynx_Top.png"

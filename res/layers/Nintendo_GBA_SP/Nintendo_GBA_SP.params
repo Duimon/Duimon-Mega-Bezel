@@ -14,32 +14,51 @@ HSM_BG_MIRROR_WRAP = "0.000000"
 
 // LED
 // ----------------------------------------------------------------------------------------------------------------
-HSM_LED_OPACITY = "0.000000"
+HSM_LED_LAYER_ORDER = "8.000000"
+HSM_LED_FOLLOW_LAYER = "4.000000"
+HSM_LED_OPACITY = "100.000000"
 
 // DEVICE
 // ----------------------------------------------------------------------------------------------------------------
-HSM_DEVICE_SCALE = "168.600571"
-HSM_DEVICE_POS_Y = "-20.449974"
+HSM_DEVICE_SCALE = "343.109894"
+HSM_DEVICE_POS_Y = "-114.770294"
 HSM_DEVICE_LAYER_ORDER = "2.000000"
 
 // DEVICE LED
 // ----------------------------------------------------------------------------------------------------------------
+HSM_DEVICELED_LAYER_ORDER = "5.000000"
+HSM_DEVICELED_BRIGHTNESS = "35.000000"
+HSM_DEVICELED_GAMMA = "1.050000"
+HSM_DEVICELED_BLEND_MODE = "1.000000"
+HSM_DEVICELED_SOURCE_MATTE_TYPE = "1.000000"
+HSM_DEVICELED_FOLLOW_LAYER = "4.000000"
 
 // CRT
 // ----------------------------------------------------------------------------------------------------------------
+HSM_CRT_LAYER_ORDER = "10.000000"
 HSM_CRT_LAYER_ORDER = "4.000000"
 
 // DECAL
 // ----------------------------------------------------------------------------------------------------------------
+HSM_DECAL_LAYER_ORDER = "4.000000"
+HSM_DECAL_BRIGHTNESS = "35.000000"
+HSM_DECAL_GAMMA = "1.050000"
 HSM_DECAL_SOURCE_MATTE_TYPE = "1.000000"
-HSM_DECAL_SCALE_MODE = "4.000000"
-HSM_DECAL_LAYER_ORDER = "3.000000"
+HSM_DECAL_FOLLOW_LAYER = "4.000000"
 
 // CABINET GLASS
 // ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_LAYER_ORDER = "6.000000"
+HSM_CAB_GLASS_SOURCE_MATTE_TYPE = "1.000000"
+HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
+HSM_CAB_GLASS_SCALE_MODE = "4.000000"
 
 // TOP EXTRA
 // ----------------------------------------------------------------------------------------------------------------
+HSM_TOP_LAYER_ORDER = "7.000000"
+HSM_TOP_SOURCE_MATTE_TYPE = "1.000000"
+HSM_TOP_FOLLOW_LAYER = "4.000000"
+HSM_TOP_MIRROR_WRAP = "0.000000"
 
 // AMBIENT
 // ----------------------------------------------------------------------------------------------------------------
@@ -47,5 +66,9 @@ HSM_DECAL_LAYER_ORDER = "3.000000"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Vignette.jpg"
-DeviceImage = "../../../Graphics/Nintendo_GBA_SP/GBA_SP.png"
+DeviceImage = "../../../Graphics/Nintendo_GBA_SP/GBA_SP_Device.png"
+DeviceLEDImage = "../../../Graphics/Nintendo_GBA_SP/GBA_SP_DeviceLED.png"
+LEDImage = "../../../Graphics/Nintendo_GBA_SP/GBA_SP_LED.png"
+CabinetGlassImage = "../../../Graphics/Nintendo_GBA_SP/GBA_SP_Glass.png"
 DecalImage = "../../../Graphics/Nintendo_GBA_SP/GBA_SP_Decal.png"
+TopLayerImage = "../../../Graphics/Nintendo_GBA_SP/GBA_SP_Top.png"

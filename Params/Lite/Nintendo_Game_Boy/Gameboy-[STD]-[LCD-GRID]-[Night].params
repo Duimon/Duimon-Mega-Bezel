@@ -10,6 +10,10 @@
 
 //#reference "../../../zzz_global_params/Base_Shader/LITE_LCD.slangp"
 
+// SHADER :: CONNECTOR :: PASSTHROUGH OVERRIDE
+// Follow the top reference and edit the target file to globally override the base preset.
+// Change the active reference to locally override the base preset.
+
 
 // INTRO | Intro animation
 // ----------------------------------------------------------------------------------------------------------------
@@ -45,13 +49,16 @@
 
 // GRAPHICS OVERRIDES | Overrides for Image layers, scaling, etc 
 // that are not related to Guest's shader. (Three examples are provided)
-// These are intended for [Bezel] versions and the following reference should be left commented out for others.
+// These are primarily intended for [Bezel] versions and the following reference should be left commented out for others.
+// There is a second section for LCD presets to keep things tidy.
 // ----------------------------------------------------------------------------------------------------------------
 
 // GRAPHICS :: OVERRIDES
 //#reference "../../../res/overrides/batocera.params"
 //#reference "../../../res/overrides/batocera_nocurve.params"
 //#reference "../../../res/overrides/batocera_hud.params"
+
+// LCD GRAPHICS :: OVERRIDES
 
 // GLOBAL GRAPHICS :: OVERRIDES
 // The user can edit the "user.params" to globally change the presets.

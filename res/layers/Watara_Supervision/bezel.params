@@ -47,4 +47,6 @@ HSM_CAB_GLASS_SCALE = "110.199844"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 TubeColoredGelImage = "../../../Graphics/SuperGBA/Supervision_Gel.png"
+//BackgroundImage = "../../../Graphics/Nintendo_Gamecube/Gamecube.png"
+//LEDImage = "../../../Graphics/Nintendo_Gamecube/Gamecube_LED.png"
 SamplerLUT1 = "../../../Graphics/SuperGBA/SV-lut.png"

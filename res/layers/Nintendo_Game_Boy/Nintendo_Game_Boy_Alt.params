@@ -20,8 +20,8 @@ HSM_LED_LAYER_ORDER = "3.000000"
 
 // DEVICE
 // ----------------------------------------------------------------------------------------------------------------
-HSM_DEVICE_SCALE = "143.500519"
-HSM_DEVICE_POS_Y = "-15.800042"
+HSM_DEVICE_SCALE = "397.815613"
+HSM_DEVICE_POS_Y = "-71.220314"
 HSM_DEVICE_LAYER_ORDER = "2.000000"
 
 // DEVICE LED
@@ -29,16 +29,12 @@ HSM_DEVICE_LAYER_ORDER = "2.000000"
 
 // CRT
 // ----------------------------------------------------------------------------------------------------------------
-HSM_CRT_LAYER_ORDER = "10.000000"
 
 // DECAL
 // ----------------------------------------------------------------------------------------------------------------
-HSM_DECAL_FOLLOW_LAYER = "4.000000"
 
 // CABINET GLASS
 // ----------------------------------------------------------------------------------------------------------------
-HSM_CAB_GLASS_SOURCE_MATTE_TYPE = "1.000000"
-HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
 
 // TOP EXTRA
 // ----------------------------------------------------------------------------------------------------------------
@@ -49,8 +45,6 @@ HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
 BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
-CabinetGlassImage = "../../../Graphics/Nintendo_Game_Boy/Gameboy_DMG01_Glass.png"
-DeviceImage = "../../../Graphics/Nintendo_Game_Boy/Gameboy_DMG01_Device.png"
-DecalImage = "../../../Graphics/Nintendo_Game_Boy/Gameboy_DMG01_Decal.png"
+DeviceImage = "../../../Graphics/Nintendo_Game_Boy/Gameboy_Device_Alt.png"
 LEDImage = "../../../Graphics/Nintendo_Game_Boy/Gameboy_LED.png"
 TubeDiffuseImage = "../../../Graphics/_Common/Gameboy_Diffuse.jpg"

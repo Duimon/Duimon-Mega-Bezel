@@ -6,7 +6,8 @@
 // Parameters specific to the scale, aspect, and position of the screen.
 // ----------------------------------------------------------------------------------------------------------------
 
-HSM_ASPECT_RATIO_MODE = "5.000000"
-HSM_NON_INTEGER_SCALE = "57.970264"
-HSM_SCREEN_POSITION_Y = "126.000000"
+HSM_ASPECT_RATIO_MODE = "1.000000"
+HSM_ASPECT_RATIO_EXPLICIT = "1.110000"
+HSM_NON_INTEGER_SCALE = "58.970268"
+HSM_SCREEN_POSITION_Y = "128.000000"
 HSM_CURVATURE_MODE = "0.000000"

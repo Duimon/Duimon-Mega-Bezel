@@ -14,46 +14,52 @@ HSM_BG_MIRROR_WRAP = "0.000000"
 
 // LED
 // ----------------------------------------------------------------------------------------------------------------
-HSM_LED_OPACITY = "0.000000"
+HSM_LED_OPACITY = "100.000000"
+HSM_LED_BLEND_MODE = "1.000000"
 HSM_LED_FOLLOW_LAYER = "4.000000"
 HSM_LED_FILL_MODE = "1.000000"
-HSM_LED_LAYER_ORDER = "10.000000"
+HSM_LED_LAYER_ORDER = "1.000000"
 
 // DEVICE
 // ----------------------------------------------------------------------------------------------------------------
-HSM_DEVICE_MASK_MODE = "8.000000"
-HSM_DEVICE_SCALE = "142.000427"
-HSM_DEVICE_POS_Y = "-11.050024"
-HSM_DEVICE_LAYER_ORDER = "2.000000"
+HSM_DEVICE_MASK_MODE = "0.000000"
+HSM_DEVICE_SCALE = "177.500000"
+HSM_DEVICE_POS_Y = "-10.200000"
+HSM_DEVICE_LAYER_ORDER = "3.000000"
 
 // DEVICE LED
 // ----------------------------------------------------------------------------------------------------------------
 
 // CRT
 // ----------------------------------------------------------------------------------------------------------------
-HSM_CRT_LAYER_ORDER = "6.000000"
-HSM_VIEWPORT_VIGNETTE_LAYER_ORDER = "11.000000"
+HSM_CRT_LAYER_ORDER = "9.000000"
+HSM_VIEWPORT_VIGNETTE_LAYER_ORDER = "0.000000"
 
 // DECAL
 // ----------------------------------------------------------------------------------------------------------------
 HSM_DECAL_FOLLOW_LAYER = "4.000000"
-HSM_DECAL_LAYER_ORDER = "4.000000"
+HSM_DECAL_LAYER_ORDER = "2.000000"
 
 // CABINET GLASS
 // ----------------------------------------------------------------------------------------------------------------
+HSM_CAB_GLASS_LAYER_ORDER = "6.000000"
+HSM_CAB_GLASS_FOLLOW_LAYER = "4.000000"
 
 // TOP EXTRA
 // ----------------------------------------------------------------------------------------------------------------
 HSM_TOP_FOLLOW_LAYER = "4.000000"
 HSM_TOP_MIRROR_WRAP = "0.000000"
-HSM_TOP_LAYER_ORDER = "1.000000"
+HSM_TOP_LAYER_ORDER = "7.000000"
 
 // AMBIENT
 // ----------------------------------------------------------------------------------------------------------------
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-DeviceImage = "../../../Graphics/Nintendo_GBA/GBA_Advanced_Bezel.png"
-DecalImage = "../../../Graphics/Nintendo_GBA/GBA_Advanced_Decal.png"
+BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
+DeviceImage = "../../../Graphics/Nintendo_GBA/GBA_Device.png"
+DeviceLEDImage = "../../../Graphics/Nintendo_GBA/GBA_Device_LED.png"
+DecalImage = "../../../Graphics/Nintendo_GBA/GBA_Decal.png"
+CabinetGlassImage = "../../../Graphics/Nintendo_GBA/GBA_Glass.png"
 LEDImage = "../../../Graphics/Nintendo_GBA/GBA_LED.png"
-TopLayerImage = "../../../Graphics/Nintendo_GBA/GBA_Advanced_Background.png"
+TopLayerImage = "../../../Graphics/Nintendo_GBA/GBA_Top.png"

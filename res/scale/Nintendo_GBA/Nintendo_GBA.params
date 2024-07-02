@@ -7,6 +7,6 @@
 // ----------------------------------------------------------------------------------------------------------------
 
 HSM_ASPECT_RATIO_MODE = "3.000000"
-HSM_NON_INTEGER_SCALE = "58.570267"
-HSM_SCREEN_POSITION_Y = "65.000000"
+HSM_NON_INTEGER_SCALE = "57.570000"
+HSM_SCREEN_POSITION_Y = "0.000000"
 HSM_CURVATURE_MODE = "0.000000"

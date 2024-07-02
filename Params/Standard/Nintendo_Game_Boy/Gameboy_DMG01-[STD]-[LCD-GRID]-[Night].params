@@ -32,31 +32,34 @@
 // ----------------------------------------------------------------------------------------------------------------
 
 // DEVICE :: BASE
-#reference "../../../res/bezel/Nintendo_Game_Boy/Nintendo_Game_Boy_Alt.params"
+#reference "../../../res/bezel/Nintendo_Game_Boy/Nintendo_Game_Boy_DMG-01.params"
 
 // DEVICE :: SCALING
-#reference "../../../res/scale/Nintendo_Game_Boy/Nintendo_Game_Boy_Alt.params"
+#reference "../../../res/scale/Nintendo_Game_Boy/Nintendo_Game_Boy_DMG-01.params"
 
 // DEVICE :: CRT
 #reference "../../../res/crt/GB.params"
 
 // IMAGE LAYERS
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/layers/Nintendo_Game_Boy/Nintendo_Game_Boy_Alt.params"
+#reference "../../../res/layers/Nintendo_Game_Boy/Nintendo_Game_Boy_DMG-01.params"
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/hsv/Nintendo_Game_Boy/Nintendo_Game_Boy_Alt.params"
+#reference "../../../res/hsv/Nintendo_Game_Boy/Nintendo_Game_Boy_DMG-01.params"
 
 // GRAPHICS OVERRIDES | Overrides for Image layers, scaling, etc 
 // that are not related to Guest's shader. (Three examples are provided)
-// These are intended for [Bezel] versions and the following reference should be left commented out for others.
+// These are primarily intended for [Bezel] versions and the following reference should be left commented out for others.
+// There is a second section for LCD presets to keep things tidy.
 // ----------------------------------------------------------------------------------------------------------------
 
 // GRAPHICS :: OVERRIDES
 //#reference "../../../res/overrides/batocera.params"
 //#reference "../../../res/overrides/batocera_nocurve.params"
 //#reference "../../../res/overrides/batocera_hud.params"
+
+// LCD GRAPHICS :: OVERRIDES
 
 // GLOBAL GRAPHICS :: OVERRIDES
 // The user can edit the "user.params" to globally change the presets.

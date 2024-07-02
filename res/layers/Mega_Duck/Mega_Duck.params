@@ -21,7 +21,7 @@ HSM_LED_LAYER_ORDER = "3.000000"
 
 // DEVICE
 // ----------------------------------------------------------------------------------------------------------------
-HSM_DEVICE_SCALE = "279.109497"
+HSM_DEVICE_SCALE = "304.711060"
 HSM_DEVICE_POS_Y = "-75.370590"
 HSM_DEVICE_LAYER_ORDER = "2.000000"
 
@@ -47,6 +47,7 @@ HSM_AMBIENT1_POSITION_Y = "-510.000000"
 
 // IMAGE PATHS
 // ----------------------------------------------------------------------------------------------------------------
-DeviceImage = "../../../Graphics/Mega_Duck/MegaDuck.png"
+BackgroundImage = "../../../Graphics/_Backgrounds/Canvas_Background.jpg"
+DeviceImage = "../../../Graphics/Mega_Duck/MegaDuck_Device.png"
 LEDImage = "../../../Graphics/Mega_Duck/MegaDuck_LED.png"
 TubeDiffuseImage = "../../../Graphics/_Common/Gameboy_Diffuse.jpg"
