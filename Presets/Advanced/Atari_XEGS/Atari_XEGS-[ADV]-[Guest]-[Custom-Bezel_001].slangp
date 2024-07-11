@@ -58,7 +58,6 @@
 
 // HSV :: Hue, Saturation, and Value parameters
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../../res/hsv/Atari_XEGS/bezel.params"
 
 // GRAPHICS OVERRIDES | Overrides for Image layers, scaling, etc 
 // that are not related to Guest's shader. (Three examples are provided)
